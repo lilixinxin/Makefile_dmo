@@ -1,0 +1,1 @@
+/usr/bin/cc     CMakeFiles/shared_library_basic.dir/src/main.c.o  -o shared_library_basic libhello_library.so -Wl,-rpath,/home/nanhe/project/Makefile_demo/Cmake_projext/basic/shared_library_basic/build 

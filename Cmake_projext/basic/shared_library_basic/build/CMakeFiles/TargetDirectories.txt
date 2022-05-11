@@ -1,0 +1,4 @@
+/home/nanhe/project/Makefile_demo/Cmake_projext/basic/shared_library_basic/build/CMakeFiles/edit_cache.dir
+/home/nanhe/project/Makefile_demo/Cmake_projext/basic/shared_library_basic/build/CMakeFiles/rebuild_cache.dir
+/home/nanhe/project/Makefile_demo/Cmake_projext/basic/shared_library_basic/build/CMakeFiles/shared_library_basic.dir
+/home/nanhe/project/Makefile_demo/Cmake_projext/basic/shared_library_basic/build/CMakeFiles/hello_library.dir

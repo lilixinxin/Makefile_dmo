@@ -1,0 +1,8 @@
+/home/nanhe/project/Makefile_demo/Cmake_projext/basic/install_basic01/build/CMakeFiles/rebuild_cache.dir
+/home/nanhe/project/Makefile_demo/Cmake_projext/basic/install_basic01/build/CMakeFiles/edit_cache.dir
+/home/nanhe/project/Makefile_demo/Cmake_projext/basic/install_basic01/build/CMakeFiles/hello_library.dir
+/home/nanhe/project/Makefile_demo/Cmake_projext/basic/install_basic01/build/CMakeFiles/install.dir
+/home/nanhe/project/Makefile_demo/Cmake_projext/basic/install_basic01/build/CMakeFiles/list_install_components.dir
+/home/nanhe/project/Makefile_demo/Cmake_projext/basic/install_basic01/build/CMakeFiles/install_basic01.dir
+/home/nanhe/project/Makefile_demo/Cmake_projext/basic/install_basic01/build/CMakeFiles/install/strip.dir
+/home/nanhe/project/Makefile_demo/Cmake_projext/basic/install_basic01/build/CMakeFiles/install/local.dir
