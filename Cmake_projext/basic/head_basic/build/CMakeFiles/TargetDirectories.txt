@@ -1,0 +1,3 @@
+/home/nanhe/project/Makefile_demo/Cmake_projext/basic/head_basic/build/CMakeFiles/edit_cache.dir
+/home/nanhe/project/Makefile_demo/Cmake_projext/basic/head_basic/build/CMakeFiles/rebuild_cache.dir
+/home/nanhe/project/Makefile_demo/Cmake_projext/basic/head_basic/build/CMakeFiles/head_basic.dir

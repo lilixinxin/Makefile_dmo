@@ -1,0 +1,1 @@
+/usr/bin/cc     CMakeFiles/library_basic.dir/src/main.c.o  -o library_basic libhello_library.a 

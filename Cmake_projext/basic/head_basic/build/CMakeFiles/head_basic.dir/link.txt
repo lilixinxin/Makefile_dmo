@@ -1,0 +1,1 @@
+/usr/bin/cc     CMakeFiles/head_basic.dir/src/main.c.o CMakeFiles/head_basic.dir/src/hello.c.o  -o head_basic 
